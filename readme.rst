@@ -1,8 +1,8 @@
 *********
 Visit Site
 *********
- `M-Inform Platform
-<https://connect2mfi.org/nminform/>`_ page.
+ `M-Inform Platform <https://connect2mfi.org/nminform/>`_.
+
 
 ###################
 What is CodeIgniter
