@@ -1,0 +1,8 @@
+.popup {
+    /* background-color: #79909f; */
+    margin: 50px auto;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 0 0 50px 15px rgba(0, 0, 0, 0.5);
+  }
+  
