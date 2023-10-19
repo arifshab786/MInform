@@ -1,7 +1,8 @@
 *********
 Visit Site
 *********
- `M-Inform Platform <https://connect2mfi.org/nminform/>`_.
+For accessing this system use these credentials userid=admin password=1111 `M-Inform Platform <https://connect2mfi.org/nminform/>`_.
+
 
 
 ###################
